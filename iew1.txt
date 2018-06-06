@@ -1,0 +1,54 @@
+1)design pattern
+2)mysql engine
+3)dependency injection
+4)best practice for dev
+5)symfony login method
+
+deloi: 
+
+database design
+UI responsive design
+search engines (solar ,elastic)
+aws 
+rest api
+design pattern 
+memcache
+require_once
+connection Pconnect , i connect
+database replication technology 
+LAMP
+html5,css
+
+Imple:
+dependency Injection
+session and cookies
+transacation table
+storing the session in server or apache concept
+$this->
+static
+
+
+columbia:
+mysql table (heap,transacation)
+mysql engines
+install mysql in linux
+install web server in linux
+triggers,
+mongo db installation
+views and index
+
+python:
+find the file and directory in linux
+python generators 
+python iteration
+
+ct
+
+design pattern
+mysql views
+mysql index
+query optimization
+use strict - javascript
+function overloading ,function overriding -OOPS
+
+
