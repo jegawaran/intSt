@@ -1,1 +1,2 @@
 this is john file txt , he is developing under the lcm activites
+Added the comments in johnbranch file from jaya branch
